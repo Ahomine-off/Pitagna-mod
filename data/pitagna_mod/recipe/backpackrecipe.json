@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": "pitagna_mod:pitagna_ingot",
+    "b": "minecraft:leather",
+    "c": "minecraft:chest"
+  },
+  "result": {
+    "id": "pitagna_mod:backpack",
+    "count": 1
+  }
+}

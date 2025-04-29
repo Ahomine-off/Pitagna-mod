@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:emerald",
+    "b": "minecraft:gold_ingot",
+    "c": "minecraft:iron_ingot",
+    "d": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "pitagna_mod:pitagna_ingot",
+    "count": 1
+  }
+}
